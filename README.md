@@ -5,6 +5,7 @@
 3. go get github.com/ethereum/go-ethereum
    go get github.com/ethereum/go-ethereum/accounts/abi/bind
    go get github.com/ethereum/go-ethereum/crypto
+4. go get -t hedera-golang-example-project
 4. go get github.com/joho/godotenv
 5. export GOPATH=$HOME/go
    export PATH=$PATH:$GOPATH/bin
